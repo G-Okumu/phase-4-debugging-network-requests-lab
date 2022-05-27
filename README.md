@@ -62,12 +62,12 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - How I debugged: written the correct instance of Toy, previous it was Toys
 
 - Update the number of likes for a toy
 
-  - How I debugged:
+  - How I debugged: return the object in json format in the controller
 
 - Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - How I debugged: added delet route
